@@ -1,0 +1,25 @@
+.main{
+    width: 500px;
+    height: 600px;
+    border: 2px solid black;
+    margin: auto;
+    margin-top: 130px;
+}
+.box1{
+    width: 260px;
+    height: 280px;
+    background-color: red;
+}
+.box2{
+    width: 260px;
+    height: 280px;
+    background-color: blue;
+    margin-left: 240px;
+}
+.box3{
+    width: 260px;
+    height: 320px;
+    background-color: orange;
+    margin-left: 240px;
+    
+}

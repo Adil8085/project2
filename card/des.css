@@ -1,0 +1,43 @@
+.im{
+    background-image: url("./color.png");
+    width: 600px;
+    height: 1000px;
+    margin-left: -10px;
+    margin-top:-15px;
+}
+.card img{
+
+    margin-top: 200px;
+    margin-left: 280px;
+    border: 1px;
+    border-radius: 10px;
+
+}
+.card2 img{
+
+    margin-top: 30px;
+    margin-left: 370px;
+    border: 1px;
+    border-radius: 10px;
+
+}
+.date h5{
+    word-spacing: 10px;
+    
+}
+.form button{
+    width: 280px;
+    height: 50px;
+    background-color: rgb(17, 2, 32);
+    color: white;
+    margin-top: 20px;
+    
+}
+.main{
+    display: flex;
+    gap:500px;
+    
+}
+.fff{
+    margin-top: 250px;
+}
